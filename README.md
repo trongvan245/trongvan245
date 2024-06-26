@@ -1,8 +1,18 @@
-## Hi there 👋
+### Hi there 👋,
+#### I'm a Backend developer and a CP enthusiast
+Currently learning backend developing
+
+Skills: NODEJS / NESTJS / REACTJS / NODEJS/ NESTJS / C++
+
+
+
+
+
 
 <!--
 **trongvan245/trongvan245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on this page. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
